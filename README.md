@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I've been
+Building web applications for a year now, I'm a passionate computer science student particularly interested in the backend side of things.  While I enjoy the full-stack, I'm currently diving into the world of Rust, always up for a challenge and excited to collaborate on new projects!
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [ghoshaniket1000@gmail.com](mailto:ghoshaniket1000@gmail.com)
