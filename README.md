@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Ghosh
 ====================================================================================================================================
 
-Building the Future of Distributed Systems
---------------------
-
 Computer Science student with a strong drive for Backend and DevOps. I leverage Go and cloud-native technologies to craft robust and scalable solutions. Actively exploring Kubernetes, Docker, and gRPC. My goal is to collaborate on challenging projects and make a tangible impact through code.
 
 *   🌍  I'm based in India
