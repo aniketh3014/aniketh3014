@@ -26,7 +26,7 @@ Last login: today · from everywhere · via Tailscale
                  `ooo/                     OS         Arch Linux x86_64  (btw)
                 `+oooo:                    Host       lily · hardened self-hosted VPS
                `+oooooo:                   Shell      zsh + tmux        Editor  nvim
-               -+oooooo+:                  Uptime     4 yrs of shipping backends
+               -+oooooo+:                  Uptime     3 yrs of shipping backends
              `/:-:++oooo+:
             `/++++/+++++++:                Role       Backend Engineer · Go
            `/++++++++++++++:               Focus      distributed systems · cloud infra
@@ -190,20 +190,6 @@ $ git log --stat --author="Aniket Ghosh"
 </div>
 
 ---
-
-```console
-$ cat /etc/motd
-
-  status: focusing · open to opportunities
-
-  looking for backend and platform work — go services, distributed
-  systems, postgres and redis, and getting things deployed properly.
-
-  reachable at ghoshaniket050@gmail.com
-
-$ exit
-Connection to lily closed.
-```
 
 <!--
   SETUP NOTES
