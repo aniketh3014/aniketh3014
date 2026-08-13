@@ -42,15 +42,7 @@ Last login: today · from everywhere · via Tailscale
  .`                                 `/     Status     focusing · open to opportunities
 ```
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aniket-ghosh-8b0b53281/"><img src="https://img.shields.io/badge/linkedin-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.x.com/aniketh3014"><img src="https://img.shields.io/badge/x-1c1917?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discord.com/users/cypherv1.0"><img src="https://img.shields.io/badge/discord-1c1917?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:ghoshaniket050@gmail.com"><img src="https://img.shields.io/badge/mail-0891b2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=aniketh3014&style=for-the-badge&color=0891b2&label=VISITORS" />
-
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,nginx,arch,cloudflare,aws,ts,nodejs,neovim&theme=dark" /> </div>
 
 ---
 
