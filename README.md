@@ -15,16 +15,19 @@
                                           
 ```
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Backend+engineer+building+reliable+systems+in+Go.;distributed+systems+%C2%B7+cloud+infra+%C2%B7+observability;correctness+%E2%86%92+observability+%E2%86%92+speed" alt="Backend engineer building reliable systems in Go." />
+</div>
+
 ```console
-$ ssh aniket@lily
-Last login: today · from everywhere · via Tailscale
+$ fastfetch
 ```
 
 ```
-                   -`                      aniket@lily
+                   -`                      aniket@arch
                   .o+`                     ───────────────────────────────────────────
                  `ooo/                     OS         Arch Linux x86_64  (btw)
-                `+oooo:                    Host       lily · hardened self-hosted VPS
+                `+oooo:                    Host       arch desktop · lily (hardened vps) over tailscale
                `+oooooo:                   Shell      zsh + tmux        Editor  nvim
                -+oooooo+:                  Uptime     3 yrs of shipping backends
              `/:-:++oooo+:
@@ -41,8 +44,6 @@ Last login: today · from everywhere · via Tailscale
  `++:.                           `-/+/     Location   West Bengal, IN  (UTC+05:30)
  .`                                 `/     Status     focusing · open to opportunities
 ```
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,nginx,arch,cloudflare,aws,ts,nodejs,neovim&theme=dark" /> </div>
 
 ---
 
@@ -64,7 +65,7 @@ I care about three things, in this order: **correctness**, **observability**, **
 Anything that can't be measured will eventually just be believed.
 
 ```console
-$ pacman -Qe --explicit
+$ pacman -Qe
 ```
 
 ```
@@ -83,7 +84,25 @@ typescript    5      # when the browser insists
 ```
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=go,grpc,postgres,redis,docker,kubernetes,nginx,linux,aws,ts,nodejs,neovim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,nginx,linux,arch,aws,cloudflare,ts,nodejs,neovim&theme=dark" />
+</div>
+
+---
+
+```console
+$ ls -l ~/projects/
+```
+
+```
+drwxr-xr-x  gstore/                         p2p file storage · content-addressed · go
+drwxr-xr-x  go-logger-email-microservice/   microservices · compose · swarm · k8s · go
+drwxr-xr-x  peerpair.dev/                   pair-programming sessions · typescript
+drwxr-xr-x  circuit-stream/                 full-stack blog platform · typescript
+```
+
+<div align="center">
+<a href="https://github.com/aniketh3014/gstore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketh3014&repo=gstore&title_color=0891b2&text_color=c7d5d8&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=8" /></a>
+<a href="https://github.com/aniketh3014/go-logger-email-microservice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketh3014&repo=go-logger-email-microservice&title_color=0891b2&text_color=c7d5d8&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=8" /></a>
 </div>
 
 ---
@@ -183,6 +202,21 @@ $ git log --stat --author="Aniket Ghosh"
 
 ---
 
+```console
+$ cat ~/.contact
+```
+
+<div align="center">
+<a href="https://www.linkedin.com/in/aniket-ghosh-8b0b53281/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0891b2" alt="LinkedIn" /></a>
+<a href="https://x.com/aniketh3014"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=0891b2" alt="X" /></a>
+<a href="mailto:ghoshaniket050@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2" alt="Email" /></a>
+<!-- Uncomment once the site is live:
+<a href="https://YOUR_DOMAIN"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=astro&logoColor=0891b2" alt="Blog" /></a>
+-->
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=aniketh3014&style=flat-square&color=0891b2&label=profile+views" alt="profile views" />
+</div>
+
 <!--
   SETUP NOTES
   1. Repo must be named `aniketh3014` (identical to your username) for this to
@@ -192,7 +226,13 @@ $ git log --stat --author="Aniket Ghosh"
      neofetch alignment. Add `README.md` to .prettierignore if you autoformat.
   3. Banner font is figlet `ansi_shadow`; logo is the standard neofetch Arch art.
      Regenerate with: pyfiglet -f ansi_shadow "ANIKET"
-  4. Third-party services: shields.io, skillicons.dev, komarev, github-readme-stats,
-     github-readme-activity-graph. None are load-bearing — delete on failure.
+  4. Third-party services: readme-typing-svg, skillicons.dev, shields.io, komarev,
+     github-readme-stats, github-readme-activity-graph. None are load-bearing —
+     delete on failure.
   5. Widest code block is 87 columns; blocks scroll horizontally on mobile.
+  6. The public github-readme-stats instance is best-effort and often rate-limited,
+     and its top-langs card can't see private repos. For reliable cards, self-host
+     it (fork + Vercel + a PAT) or generate the SVGs with its GitHub Action.
+  7. skillicons.dev has no `grpc` icon — an unknown id breaks the whole row.
+  8. Uncomment the Blog badge once your site is live.
 -->
